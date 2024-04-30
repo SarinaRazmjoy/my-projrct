@@ -21,4 +21,3 @@ for i in range(len(parentheses )):
         out+= parentheses[i]
 print("right form:",out)
 
-git branch -d <Parentheses.py>
